@@ -96,6 +96,8 @@ test('home health search by ZIP 05401: the 3 agencies that serve it, best qualit
   assert.deepEqual(r.agencies.map((a) => [a.ccn, a.quality_stars, a.patient_survey_stars]), [['477019', 3.5, 3], ['477007', 3, 3], ['477000', 2.5, 4]]);
   assert.equal(r.matched, 3); assert.equal(r.as_of, '2026-09-21');
   assert.match(r.summary, /^3 Medicare-certified home health agencies serving ZIP 05401/);
+  assert.match(r.summary, /\(quality star ratings 3\.5: 1, 3: 1, 2\.5: 1\)/);
+  assert.equal(r.agencies[0].name, 'Bayada Home Health Care, Inc.');
   assert.equal(r.agencies[2].name, 'UVMHN Home Health and Hospice'); assert.equal(r.agencies[2].phone.length, 14);
   assert.equal(r.agencies[2].rated_9_or_10_pct, 87); assert.equal(r.agencies[2].would_definitely_recommend_pct, 88);
   assert.equal(r.agencies[0].care_compare_url, 'https://www.medicare.gov/care-compare/details/home-health/477019');

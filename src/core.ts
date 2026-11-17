@@ -197,7 +197,7 @@ export function titleCase(s: string): string {
   return s.toLowerCase().split(/(\s+|-|\/)/).map((w, i) => {
     if (!w.trim() || w === '-' || w === '/') return w;
     if (i > 0 && SMALL.has(w.toUpperCase())) return w;
-    if (/^(ii|iii|iv|llc|inc|pllc|lp|vna|vnh|hha|uvmhn|usa|us|pc|dba|nh|vt|ny|nyc|hcr)$/i.test(w.replace(/[.,]/g, ''))) return w.toUpperCase();
+    if (/^(ii|iii|iv|llc|pllc|lp|vna|vnh|hha|uvmhn|usa|pc|dba|nh|vt|ny|nyc|hcr)$/i.test(w.replace(/[.,]/g, ''))) return w.toUpperCase();
     return w.charAt(0).toUpperCase() + w.slice(1);
   }).join('').replace(/'S\b/g, "'s");
 }
@@ -402,7 +402,8 @@ export async function homeHealthSearch(f: FetchText, a: HomeHealthSearchArgs) {
   });
   const asOf = await modified(f, DS.hh);
   const top = agencies.slice(0, 5).map((h) => `${h.name} (${h.city}, ${h.state}): quality ${stars(h.quality_stars)}, patient survey ${stars(h.patient_survey_stars)}`);
-  const rated = Object.entries(dist).filter(([k, v]) => k !== 'not_rated' && v).map(([k, v]) => `${k}: ${v}`).join(', ');
+  // Integer-like keys ("5") come before "4.5" in a JS object, so the summary walks a fixed order.
+  const rated = ['5', '4.5', '4', '3.5', '3', '2.5', '2', '1.5', '1'].filter((k) => dist[k]).map((k) => `${k}: ${dist[k]}`).join(', ');
   const summary = matched === 0
     ? `No Medicare-certified home health agencies ${where}${want.length ? ` offering ${a.services!.join(', ')}` : ''}.`
     : `${matched} Medicare-certified home health agenc${matched === 1 ? 'y' : 'ies'} ${where}${want.length ? ` offering ${a.services!.join(', ')}` : ''}` +
