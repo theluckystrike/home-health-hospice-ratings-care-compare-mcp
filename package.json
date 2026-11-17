@@ -1,0 +1,57 @@
+{
+  "name": "home-health-hospice-ratings-care-compare-mcp",
+  "version": "1.0.0",
+  "description": "Home health and hospice ratings MCP server: Medicare Care Compare star ratings, patient and family survey results and quality measures for every US home health agency and hospice, search by the ZIP code they serve. Hosted, no key.",
+  "type": "module",
+  "license": "MIT",
+  "author": "theluckystrike",
+  "mcpName": "io.github.theluckystrike/home-health-hospice-ratings-care-compare-mcp",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theluckystrike/home-health-hospice-ratings-care-compare-mcp"
+  },
+  "homepage": "https://www.mcpstamp.com/servers/",
+  "bin": {
+    "home-health-hospice-ratings-care-compare-mcp": "dist/stdio.js"
+  },
+  "main": "dist/stdio.js",
+  "files": [
+    "dist",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "test": "npm run build && node --test",
+    "start": "node dist/stdio.js",
+    "deploy": "npx wrangler@4 deploy",
+    "typecheck": "tsc -p tsconfig.json --noEmit"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.20.0",
+    "zod": "^3.25.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "typescript": "^5.6.0"
+  },
+  "keywords": [
+    "mcp",
+    "mcp-server",
+    "model-context-protocol",
+    "home-health",
+    "home-health-agency",
+    "hospice",
+    "hospice-ratings",
+    "care-compare",
+    "medicare",
+    "cms",
+    "star-ratings",
+    "elder-care",
+    "caregiving",
+    "cloudflare-workers"
+  ]
+}

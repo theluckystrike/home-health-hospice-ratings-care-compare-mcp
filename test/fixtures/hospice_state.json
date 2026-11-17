@@ -1,0 +1,162 @@
+[
+{
+"state": "VT",
+"measure_code": "H_001_01_OBSERVED",
+"measure_name": "Hospice and Palliative Care Treatment Preferences",
+"score": "99.90",
+"footnote": "",
+"measure_date_range": "10/01/2024 - 09/30/2025"
+},
+{
+"state": "VT",
+"measure_code": "H_002_01_OBSERVED",
+"measure_name": "Beliefs & Values Addressed (if desired by the patient)",
+"score": "99.05",
+"footnote": "",
+"measure_date_range": "10/01/2024 - 09/30/2025"
+},
+{
+"state": "VT",
+"measure_code": "H_003_01_OBSERVED",
+"measure_name": "Hospice and Palliative Care Pain Screening",
+"score": "99.12",
+"footnote": "",
+"measure_date_range": "10/01/2024 - 09/30/2025"
+},
+{
+"state": "VT",
+"measure_code": "H_004_01_OBSERVED",
+"measure_name": "Hospice and Palliative Care Pain Assessment",
+"score": "97.96",
+"footnote": "",
+"measure_date_range": "10/01/2024 - 09/30/2025"
+},
+{
+"state": "VT",
+"measure_code": "H_005_01_OBSERVED",
+"measure_name": "Hospice and Palliative Care Dyspnea Screening",
+"score": "99.80",
+"footnote": "",
+"measure_date_range": "10/01/2024 - 09/30/2025"
+},
+{
+"state": "VT",
+"measure_code": "H_006_01_OBSERVED",
+"measure_name": "Hospice and Palliative Care Dyspnea Treatment",
+"score": "97.81",
+"footnote": "",
+"measure_date_range": "10/01/2024 - 09/30/2025"
+},
+{
+"state": "VT",
+"measure_code": "H_007_01_OBSERVED",
+"measure_name": "Patient Treated with an Opioid Who Are Given a Bowel Regimen",
+"score": "97.97",
+"footnote": "",
+"measure_date_range": "10/01/2024 - 09/30/2025"
+},
+{
+"state": "VT",
+"measure_code": "H_008_01_OBSERVED",
+"measure_name": "Hospice and Palliative Care Composite Process Measure",
+"score": "95.61",
+"footnote": "",
+"measure_date_range": "10/01/2024 - 09/30/2025"
+},
+{
+"state": "VT",
+"measure_code": "H_011_01_OBSERVED",
+"measure_name": "Hospice Visits in the Last Days of Life",
+"score": "66.0%",
+"footnote": "",
+"measure_date_range": "01/01/2023 - 12/31/2024"
+},
+{
+"state": "VT",
+"measure_code": "H_012_00_OBSERVED",
+"measure_name": "Hospice Care Index Overall Score",
+"score": "9.4",
+"footnote": "",
+"measure_date_range": "01/01/2023 - 12/31/2024"
+},
+{
+"state": "VT",
+"measure_code": "H_012_01_OBSERVED",
+"measure_name": "CHC/GIP provided (% days)",
+"score": "0.6%",
+"footnote": "",
+"measure_date_range": "01/01/2023 - 12/31/2024"
+},
+{
+"state": "VT",
+"measure_code": "H_012_02_OBSERVED",
+"measure_name": "Gaps in nursing visits (% elections)",
+"score": "63.9%",
+"footnote": "",
+"measure_date_range": "01/01/2023 - 12/31/2024"
+},
+{
+"state": "VT",
+"measure_code": "H_012_03_OBSERVED",
+"measure_name": "Early live discharges (% live discharges)",
+"score": "6.0%",
+"footnote": "",
+"measure_date_range": "01/01/2023 - 12/31/2024"
+},
+{
+"state": "VT",
+"measure_code": "H_012_04_OBSERVED",
+"measure_name": "Late live discharges (% live discharges)",
+"score": "29.6%",
+"footnote": "",
+"measure_date_range": "01/01/2023 - 12/31/2024"
+},
+{
+"state": "VT",
+"measure_code": "H_012_05_OBSERVED",
+"measure_name": "Burdensome transitions, Type 1 (% live discharges)",
+"score": "2.5%",
+"footnote": "",
+"measure_date_range": "01/01/2023 - 12/31/2024"
+},
+{
+"state": "VT",
+"measure_code": "H_012_06_OBSERVED",
+"measure_name": "Burdensome transitions, Type 2 (% live discharges)",
+"score": "5.8%",
+"footnote": "",
+"measure_date_range": "01/01/2023 - 12/31/2024"
+},
+{
+"state": "VT",
+"measure_code": "H_012_07_OBSERVED",
+"measure_name": "Per-beneficiary spending (U.S. dollars $)",
+"score": "$13,204",
+"footnote": "",
+"measure_date_range": "01/01/2023 - 12/31/2024"
+},
+{
+"state": "VT",
+"measure_code": "H_012_08_OBSERVED",
+"measure_name": "Nurse care minutes per routine home care days (minutes)",
+"score": "13.2",
+"footnote": "",
+"measure_date_range": "01/01/2023 - 12/31/2024"
+},
+{
+"state": "VT",
+"measure_code": "H_012_09_OBSERVED",
+"measure_name": "Skilled nursing minutes on weekends (% minutes)",
+"score": "9.9%",
+"footnote": "",
+"measure_date_range": "01/01/2023 - 12/31/2024"
+},
+{
+"state": "VT",
+"measure_code": "H_012_10_OBSERVED",
+"measure_name": "Visits near death (% decedents)",
+"score": "92.6%",
+"footnote": "",
+"measure_date_range": "01/01/2023 - 12/31/2024"
+}
+]

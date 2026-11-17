@@ -1,0 +1,178 @@
+[
+{
+"cms_certification_number_ccn": "Nation",
+"measure_code": "H_001_01_OBSERVED",
+"measure_name": "Hospice and Palliative Care Treatment Preferences",
+"score": "99.80",
+"footnote": "-",
+"measure_date_range": "10/01/2024 - 09/30/2025"
+},
+{
+"cms_certification_number_ccn": "Nation",
+"measure_code": "H_002_01_OBSERVED",
+"measure_name": "Beliefs & Values Addressed (if desired by the patient)",
+"score": "99.27",
+"footnote": "-",
+"measure_date_range": "10/01/2024 - 09/30/2025"
+},
+{
+"cms_certification_number_ccn": "Nation",
+"measure_code": "H_003_01_OBSERVED",
+"measure_name": "Hospice and Palliative Care Pain Screening",
+"score": "99.00",
+"footnote": "-",
+"measure_date_range": "10/01/2024 - 09/30/2025"
+},
+{
+"cms_certification_number_ccn": "Nation",
+"measure_code": "H_004_01_OBSERVED",
+"measure_name": "Hospice and Palliative Care Pain Assessment",
+"score": "98.27",
+"footnote": "-",
+"measure_date_range": "10/01/2024 - 09/30/2025"
+},
+{
+"cms_certification_number_ccn": "Nation",
+"measure_code": "H_005_01_OBSERVED",
+"measure_name": "Hospice and Palliative Care Dyspnea Screening",
+"score": "99.53",
+"footnote": "-",
+"measure_date_range": "10/01/2024 - 09/30/2025"
+},
+{
+"cms_certification_number_ccn": "Nation",
+"measure_code": "H_006_01_OBSERVED",
+"measure_name": "Hospice and Palliative Care Dyspnea Treatment",
+"score": "98.59",
+"footnote": "-",
+"measure_date_range": "10/01/2024 - 09/30/2025"
+},
+{
+"cms_certification_number_ccn": "Nation",
+"measure_code": "H_007_01_OBSERVED",
+"measure_name": "Patient Treated with an Opioid Who Are Given a Bowel Regimen",
+"score": "98.46",
+"footnote": "-",
+"measure_date_range": "10/01/2024 - 09/30/2025"
+},
+{
+"cms_certification_number_ccn": "Nation",
+"measure_code": "H_008_01_OBSERVED",
+"measure_name": "Hospice and Palliative Care Composite Process Measure",
+"score": "96.15",
+"footnote": "-",
+"measure_date_range": "10/01/2024 - 09/30/2025"
+},
+{
+"cms_certification_number_ccn": "Nation",
+"measure_code": "H_011_01_OBSERVED",
+"measure_name": "Hospice Visits in the Last Days of Life",
+"score": "48.3",
+"footnote": "-",
+"measure_date_range": "01/01/2023 - 12/31/2024"
+},
+{
+"cms_certification_number_ccn": "Nation",
+"measure_code": "H_012_00_OBSERVED",
+"measure_name": "Hospice Care Index Overall Score",
+"score": "8.8",
+"footnote": "-",
+"measure_date_range": "01/01/2023 - 12/31/2024"
+},
+{
+"cms_certification_number_ccn": "Nation",
+"measure_code": "H_012_01_OBSERVED",
+"measure_name": "CHC/GIP provided (% days)",
+"score": "0.5",
+"footnote": "-",
+"measure_date_range": "01/01/2023 - 12/31/2024"
+},
+{
+"cms_certification_number_ccn": "Nation",
+"measure_code": "H_012_02_OBSERVED",
+"measure_name": "Gaps in nursing visits (% elections)",
+"score": "52.4",
+"footnote": "-",
+"measure_date_range": "01/01/2023 - 12/31/2024"
+},
+{
+"cms_certification_number_ccn": "Nation",
+"measure_code": "H_012_03_OBSERVED",
+"measure_name": "Early live discharges (% live discharges)",
+"score": "7.3",
+"footnote": "-",
+"measure_date_range": "01/01/2023 - 12/31/2024"
+},
+{
+"cms_certification_number_ccn": "Nation",
+"measure_code": "H_012_04_OBSERVED",
+"measure_name": "Late live discharges (% live discharges)",
+"score": "37.4",
+"footnote": "-",
+"measure_date_range": "01/01/2023 - 12/31/2024"
+},
+{
+"cms_certification_number_ccn": "Nation",
+"measure_code": "H_012_05_OBSERVED",
+"measure_name": "Burdensome transitions, Type 1 (% live discharges)",
+"score": "8.5",
+"footnote": "-",
+"measure_date_range": "01/01/2023 - 12/31/2024"
+},
+{
+"cms_certification_number_ccn": "Nation",
+"measure_code": "H_012_06_OBSERVED",
+"measure_name": "Burdensome transitions, Type 2 (% live discharges)",
+"score": "2.1",
+"footnote": "-",
+"measure_date_range": "01/01/2023 - 12/31/2024"
+},
+{
+"cms_certification_number_ccn": "Nation",
+"measure_code": "H_012_07_OBSERVED",
+"measure_name": "Per-beneficiary spending (U.S. dollars $)",
+"score": "19,227",
+"footnote": "-",
+"measure_date_range": "01/01/2023 - 12/31/2024"
+},
+{
+"cms_certification_number_ccn": "Nation",
+"measure_code": "H_012_08_OBSERVED",
+"measure_name": "Nurse care minutes per routine home care days (minutes)",
+"score": "19.9",
+"footnote": "-",
+"measure_date_range": "01/01/2023 - 12/31/2024"
+},
+{
+"cms_certification_number_ccn": "Nation",
+"measure_code": "H_012_09_OBSERVED",
+"measure_name": "Skilled nursing minutes on weekends (% minutes)",
+"score": "9.6",
+"footnote": "-",
+"measure_date_range": "01/01/2023 - 12/31/2024"
+},
+{
+"cms_certification_number_ccn": "Nation",
+"measure_code": "H_012_10_OBSERVED",
+"measure_name": "Visits near death (% decedents)",
+"score": "89.3",
+"footnote": "-",
+"measure_date_range": "01/01/2023 - 12/31/2024"
+},
+{
+"cms_certification_number_ccn": "Nation",
+"measure_code": "Provided_Home_Care_and_other",
+"measure_name": "Provided Routine Home Care and other levels of care",
+"score": "87.4",
+"footnote": "",
+"measure_date_range": "01/01/2022 - 12/31/2024"
+},
+{
+"cms_certification_number_ccn": "Nation",
+"measure_code": "Provided_Home_Care_only",
+"measure_name": "Provided Routine Home Care only",
+"score": "12.6",
+"footnote": "",
+"measure_date_range": "01/01/2022 - 12/31/2024"
+}
+]

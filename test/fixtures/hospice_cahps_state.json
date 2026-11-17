@@ -1,0 +1,170 @@
+[
+{
+"state": "VT",
+"measure_code": "EMO_REL_BBV",
+"measure_name": "The hospice team did |not| provide the right amount of emotional and spiritual support",
+"score": "9",
+"footnote": "",
+"date": "10/01/2023-09/30/2025"
+},
+{
+"state": "VT",
+"measure_code": "EMO_REL_MBV",
+"measure_name": "",
+"score": "Not Applicable",
+"footnote": "",
+"date": "10/01/2023-09/30/2025"
+},
+{
+"state": "VT",
+"measure_code": "EMO_REL_TBV",
+"measure_name": "The hospice team provided the right amount of emotional and spiritual support",
+"score": "91",
+"footnote": "",
+"date": "10/01/2023-09/30/2025"
+},
+{
+"state": "VT",
+"measure_code": "RATING_BBV",
+"measure_name": "Caregivers rated the hospice agency a 6 or lower",
+"score": "5",
+"footnote": "",
+"date": "10/01/2023-09/30/2025"
+},
+{
+"state": "VT",
+"measure_code": "RATING_MBV",
+"measure_name": "Caregivers rated the hospice agency a 7 or 8",
+"score": "11",
+"footnote": "",
+"date": "10/01/2023-09/30/2025"
+},
+{
+"state": "VT",
+"measure_code": "RATING_TBV",
+"measure_name": "Caregivers rated the hospice agency a 9 or 10",
+"score": "84",
+"footnote": "",
+"date": "10/01/2023-09/30/2025"
+},
+{
+"state": "VT",
+"measure_code": "RECOMMEND_BBV",
+"measure_name": "NO, they would probably not or definitely not recommend the hospice",
+"score": "3",
+"footnote": "",
+"date": "10/01/2023-09/30/2025"
+},
+{
+"state": "VT",
+"measure_code": "RECOMMEND_MBV",
+"measure_name": "YES, they would probably recommend the hospice",
+"score": "7",
+"footnote": "",
+"date": "10/01/2023-09/30/2025"
+},
+{
+"state": "VT",
+"measure_code": "RECOMMEND_TBV",
+"measure_name": "YES, they would definitely recommend the hospice",
+"score": "90",
+"footnote": "",
+"date": "10/01/2023-09/30/2025"
+},
+{
+"state": "VT",
+"measure_code": "RESPECT_BBV",
+"measure_name": "The hospice team sometimes or never treated the patient with respect",
+"score": "2",
+"footnote": "",
+"date": "10/01/2023-09/30/2025"
+},
+{
+"state": "VT",
+"measure_code": "RESPECT_MBV",
+"measure_name": "The hospice team usually treated the patient with respect",
+"score": "5",
+"footnote": "",
+"date": "10/01/2023-09/30/2025"
+},
+{
+"state": "VT",
+"measure_code": "RESPECT_TBV",
+"measure_name": "The hospice team always treated the patient with respect",
+"score": "93",
+"footnote": "",
+"date": "10/01/2023-09/30/2025"
+},
+{
+"state": "VT",
+"measure_code": "SYMPTOMS_BBV",
+"measure_name": "The patient sometimes or never got the help they needed for pain and symptoms",
+"score": "8",
+"footnote": "",
+"date": "10/01/2023-09/30/2025"
+},
+{
+"state": "VT",
+"measure_code": "SYMPTOMS_MBV",
+"measure_name": "The patient usually got the help they needed for pain and symptoms",
+"score": "16",
+"footnote": "",
+"date": "10/01/2023-09/30/2025"
+},
+{
+"state": "VT",
+"measure_code": "SYMPTOMS_TBV",
+"measure_name": "The patient always got the help they needed for pain and symptoms",
+"score": "76",
+"footnote": "",
+"date": "10/01/2023-09/30/2025"
+},
+{
+"state": "VT",
+"measure_code": "TEAM_COMM_BBV",
+"measure_name": "The hospice team sometimes or never communicated well",
+"score": "5",
+"footnote": "",
+"date": "10/01/2023-09/30/2025"
+},
+{
+"state": "VT",
+"measure_code": "TEAM_COMM_MBV",
+"measure_name": "The hospice team usually communicated well",
+"score": "12",
+"footnote": "",
+"date": "10/01/2023-09/30/2025"
+},
+{
+"state": "VT",
+"measure_code": "TEAM_COMM_TBV",
+"measure_name": "The hospice team always communicated well",
+"score": "83",
+"footnote": "",
+"date": "10/01/2023-09/30/2025"
+},
+{
+"state": "VT",
+"measure_code": "TIMELY_CARE_BBV",
+"measure_name": "The hospice team sometimes or never provided timely help",
+"score": "9",
+"footnote": "",
+"date": "10/01/2023-09/30/2025"
+},
+{
+"state": "VT",
+"measure_code": "TIMELY_CARE_MBV",
+"measure_name": "The hospice team usually provided timely help",
+"score": "11",
+"footnote": "",
+"date": "10/01/2023-09/30/2025"
+},
+{
+"state": "VT",
+"measure_code": "TIMELY_CARE_TBV",
+"measure_name": "The hospice team always provided timely help",
+"score": "80",
+"footnote": "",
+"date": "10/01/2023-09/30/2025"
+}
+]

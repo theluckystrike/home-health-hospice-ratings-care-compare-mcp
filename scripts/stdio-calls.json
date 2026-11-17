@@ -1,0 +1,6 @@
+[
+  ["home_health_search", {"zip": "05401"}],
+  ["home_health_ratings", {"ccn": "477000"}],
+  ["hospice_search", {"zip": "05401"}],
+  ["hospice_ratings", {"ccn": "471500"}]
+]
